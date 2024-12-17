@@ -1,4 +1,4 @@
-package com.wcs;
+package com.wcs.quest06;
 
 public class Classroom {
     public static void main(String[] args) {
